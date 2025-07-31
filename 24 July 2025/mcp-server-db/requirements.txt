@@ -1,0 +1,7 @@
+aiosqlite
+python-dotenv
+mcp-server
+pydantic
+email-validator
+mcp-use
+langchain-groq

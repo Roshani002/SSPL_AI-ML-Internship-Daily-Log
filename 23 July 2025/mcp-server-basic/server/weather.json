@@ -1,0 +1,15 @@
+{
+    "mcpServers": {
+    "weather": {
+      "command": "C:\\Users\\rosha\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\uv.EXE",
+      "args": [
+        "run",
+        "--with",
+        "mcp[cli]",
+        "mcp",
+        "run",
+        "D:\\Acedamics\\Sculptsoft\\SSPL_Internship_Daily_Log_ Local\\Learnings_and_Tasks\\Agentic_AI_6\\Projects\\Agents\\Agent_with_mcp\\mcp-server-basic\\server\\weather.py"
+      ]
+    }
+  }
+}

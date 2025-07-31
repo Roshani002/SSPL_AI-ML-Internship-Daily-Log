@@ -1,0 +1,19 @@
+# Ignore the Python virtual environment
+venv/
+.venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore artifacts created by the langgraph tool itself
+.langgraph_api/
+
+# Ignore IDE settings
+.vscode/
+.idea/
+
+# Ignore readme file
+README.md
+
+.gitignore

@@ -1,0 +1,15 @@
+{
+  "dependencies": [
+    "langchain",
+    "langchain-tavily",
+    "langchain-core",
+    "langchain-community",
+    "langchain-google-genai",
+    "langgraph",
+    "./agent"
+  ],
+  "graphs": {
+    "chatbot_agent": "./agent/agent.py:graph"
+  },
+  "env": "./.env"
+}
